@@ -13,4 +13,4 @@ Based on the sample data, a suitable threshold value can be used to compare the 
 ## Instructions
 1. ```pip install -r requirements.txt```
 2. execute test.py to test the sample cases
-3. execute main.py by passing arguments [video_file path, boolean flag to save output plot, bounding box rectange xmin, ymin and xmax, ymax
+3. execute main.py by passing arguments [video_file path, boolean flag to save output plot, bounding box rectange xmin, ymin and xmax, ymax]
